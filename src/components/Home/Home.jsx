@@ -11,6 +11,7 @@ import { FaBehance } from "react-icons/fa";
 const Home = () => {
   return (
     <section className="home" id='home'>
+        <div className="home__wrapper">
         <div className="home__container container">
             <p className="home__subtitle text-cs">
                 HELLO, <span className='xyz'>MY NAME IS</span>
@@ -69,6 +70,7 @@ const Home = () => {
                 <a href="" className="hero__link text-cs">My Skils</a>
             </div>
 
+        </div>
         </div>
     </section>
   )

@@ -91,8 +91,8 @@ export const services = [
 export const skills = [
   {
     id: 1,
-    name: 'PHP',
-    percentage: 85,
+    name: 'HTML & CSS',
+    percentage: 84,
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
   },
@@ -100,39 +100,39 @@ export const skills = [
   {
     id: 2,
     name: 'JavaScript',
-    percentage: 75,
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  },
-
-  {
-    id: 3,
-    name: 'WordPress',
-    percentage: 90,
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  },
-
-  {
-    id: 4,
-    name: 'Python',
-    percentage: 75,
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  },
-
-  {
-    id: 5,
-    name: 'React',
     percentage: 70,
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
   },
 
   {
+    id: 3,
+    name: 'C programming & Java',
+    percentage: 84,
+    description:
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  },
+
+  {
+    id: 4,
+    name: 'React Js',
+    percentage: 54,
+    description:
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  },
+
+  {
+    id: 5,
+    name: 'Figma',
+    percentage: 60,
+    description:
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+  },
+
+  {
     id: 6,
-    name: 'Adobe XD',
-    percentage: 80,
+    name: 'Github & Vs-Code',
+    percentage: 70,
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
   },
@@ -192,9 +192,9 @@ export const projects = [
 export const cv = [
   {
     id: 1,
-    title: 'CoderHouse Courses',
-    subtitle: 'Backend Programming',
-    date: '2014 - 2016',
+    title: 'Post Graduation',
+    subtitle: 'BPUT',
+    date: '2022 - 2024',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     category: 'education',
@@ -202,9 +202,9 @@ export const cv = [
 
   {
     id: 2,
-    title: 'Lviv National Academy of Arts',
-    subtitle: 'Faculty of Design',
-    date: '2012 - 2014',
+    title: 'Under Graduation',
+    subtitle: 'Utkal University',
+    date: '20168- 2021',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     category: 'education',
@@ -212,9 +212,9 @@ export const cv = [
 
   {
     id: 3,
-    title: 'IT Future',
-    subtitle: 'High School',
-    date: '2010 - 2012',
+    title: 'State Higher Secondary Education',
+    subtitle: 'Sambalpur University',
+    date: '2016 - 2018',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     category: 'education',
@@ -222,33 +222,23 @@ export const cv = [
 
   {
     id: 4,
-    title: 'UI Head & Manager',
-    subtitle: 'Soft Tech Inc.',
-    date: '2020 - PRESENT',
+    title: 'Central Board Of Secondary Education',
+    subtitle: 'Kendriya Vidyalaya',
+    date: '2022 - 2024',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    category: 'experience',
+    category: 'education',
   },
 
   {
     id: 5,
-    title: 'UI / UX Specialist',
-    subtitle: 'Kana Design Studio',
-    date: '2018 - 2020',
+    title: 'Softwer Developement Intern',
+    subtitle: 'Akrabhi-Infoviz',
+    date: '2023 - present',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     category: 'experience',
-  },
-
-  {
-    id: 6,
-    title: 'Plugins Developer',
-    subtitle: 'Fiverr.com',
-    date: '2016 - 2018',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    category: 'experience',
-  },
+  }
 ];
 
 export const testimonials = [

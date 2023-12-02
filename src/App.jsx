@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import Home from './components/home/home'
+import Home from './components/Home/Home'
 import Projects from './components/Projects/Projects'
 import Skills from './components/Skills/Skills'
 import Portfolio from './components/Portfolio/Portfolio'

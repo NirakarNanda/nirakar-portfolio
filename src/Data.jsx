@@ -5,40 +5,26 @@ import Project4 from './assets/project4.jpeg';
 import Project5 from './assets/project5.jpg';
 import Project6 from './assets/project6.jpg';
 
-import Testimonial1 from './assets/testimonial1.jpg';
-import Testimonial2 from './assets/testimonial2.jpg';
-import Testimonial3 from './assets/testimonial3.jpg';
-import Testimonial4 from './assets/testimonial4.jpg';
-import Testimonial5 from './assets/testimonial5.jpg';
-
 export const links = [
   {
     name: 'Home',
     path: 'home',
   },
   {
-    name: 'Services',
-    path: 'services',
+    name: 'What I do',
+    path: 'projects',
   },
   {
     name: 'Skills',
     path: 'skills',
   },
   {
-    name: 'Works',
+    name: 'Projects',
     path: 'work',
   },
   {
     name: 'Resume',
     path: 'resume',
-  },
-  {
-    name: 'Testimonials',
-    path: 'testimonial',
-  },
-  {
-    name: 'Pricing',
-    path: 'pricing',
   },
   {
     name: 'Blog',
@@ -241,45 +227,3 @@ export const cv = [
   }
 ];
 
-export const testimonials = [
-  {
-    id: 1,
-    img: Testimonial1,
-    name: 'Barbara Wilson',
-    author: 'CEO Company',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  },
-  {
-    id: 2,
-    img: Testimonial2,
-    name: 'Charlie Smith',
-    author: 'Designer',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  },
-  {
-    id: 3,
-    img: Testimonial3,
-    name: 'Roy Wang',
-    author: 'Manager GYM',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  },
-  {
-    id: 4,
-    img: Testimonial4,
-    name: 'Jennifer Smith',
-    author: 'CEO & Founder',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  },
-  {
-    id: 5,
-    img: Testimonial5,
-    name: 'Paul Freeman',
-    author: 'Photographer',
-    description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  },
-];

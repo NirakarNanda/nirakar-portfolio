@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 import profileImg from '../../assets/pro.png';
-import shapeOne from '../../assets/shape-1.png';
+
 import shapeTwo from '../../assets/shape-2.png';
 import { FaLinkedin } from "react-icons/fa";
 import { IoIosMail } from "react-icons/io";

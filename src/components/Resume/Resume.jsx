@@ -5,7 +5,7 @@ import Card from'./Card';
 
 const Resume = () => {
   return (
-    <section className="resume section">
+    <section className="resume section" id='resume'>
         <h2 className="section__title text cs">Resume</h2>
         <p className="section__subtitle">
             My <span>Jourńey</span>

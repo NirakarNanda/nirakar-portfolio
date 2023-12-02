@@ -25,7 +25,7 @@ const Items = ({ projectItems }) => {
               <p className="portfolio__description">{description}</p>
 
               <div className="links">
-                <a href="" className="link">
+                <a href="https://github.com/NirakarNanda?tab=repositories" className="link" target="_blank" rel="noopener noreferrer">
                   Visit Github and Project Platform
                   <FaLaptopCode className='link_icon'></FaLaptopCode>
                   <FaArrowRight className='link_icon'></FaArrowRight>

@@ -94,19 +94,19 @@ const Header = () => {
                         </ul>
 
                         <div className="header__socials">
-                            <a href="" className="header__social-link">
+                            <a href='https://www.linkedin.com/in/nirakar-nanda-569329247' className="home__social-link" target="_blank" rel="noopener noreferrer">
                                 <FaLinkedin />
                             </a>
 
-                            <a href="" className="header__social-link">
+                            <a href='mailto:nirakarnanda1@gmail.com' className="home__social-link" target="_blank" rel="noopener noreferrer">
                                 <IoIosMail />
                             </a>
 
-                            <a href="" className="header__social-link">
+                            <a href='https://www.playbook.com/s/nirakar-nanda/NkRQqCAnFCT42KB6AU1xgtz4' className="home__social-link" target="_blank" rel="noopener noreferrer">
                                 <FaFigma />
                             </a>
 
-                            <a href="" className="header__social-link">
+                            <a href='https://www.behance.net/' className="home__social-link" target="_blank" rel="noopener noreferrer">
                                 <FaBehance />
                             </a>
                         </div>

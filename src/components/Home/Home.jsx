@@ -49,19 +49,19 @@ const Home = () => {
                 A creative coder with a penchant for responsive web design, I present a portfolio encompassing projects across various programming languages, predominantly in JS. Emphasizing an interest in UX/UI skills, my work showcases an intuitive approach to interface design using the latest web technologies.</p>
 
             <div className="home__socials">
-                <a href="" className="home__social-link">
+                <a href='https://www.linkedin.com/in/nirakar-nanda-569329247' className="home__social-link" target="_blank" rel="noopener noreferrer">
                     <FaLinkedin />
                 </a>
 
-                <a href="" className="home__social-link">
+                <a href='mailto:nirakarnanda1@gmail.com' className="home__social-link" target="_blank" rel="noopener noreferrer">
                     <IoIosMail />
                 </a>
 
-                <a href="" className="home__social-link">
+                <a href='https://www.playbook.com/s/nirakar-nanda/NkRQqCAnFCT42KB6AU1xgtz4' className="home__social-link" target="_blank" rel="noopener noreferrer">
                     <FaFigma />
                 </a>
 
-                <a href="" className="home__social-link">
+                <a href='https://www.behance.net/' className="home__social-link" target="_blank" rel="noopener noreferrer">
                     <FaBehance />
                 </a>
             </div>

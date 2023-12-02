@@ -1,5 +1,6 @@
 .resume {
     background-image: var(--second-gradient);
+    padding-bottom: 110px;
 }
 
 .resume__container {
@@ -23,6 +24,7 @@
 .resume__header {
     padding: 32px 30px;
 }
+
 
 .resume__subtitle {
     font-size: var(--largest-font-size);

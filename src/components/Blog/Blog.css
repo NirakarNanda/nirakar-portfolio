@@ -1,5 +1,6 @@
 .blog {
     background-image: var(--first-gradient);
+    padding-bottom: 110px;
 }
 
 .blog__container {

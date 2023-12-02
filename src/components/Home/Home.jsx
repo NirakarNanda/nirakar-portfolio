@@ -1,12 +1,13 @@
 import React from 'react'
 import './Home.css'
 import profileImg from '../../assets/pro.png';
-
+import shapeOne from '../../assets/shape-1.png';
 import shapeTwo from '../../assets/shape-2.png';
 import { FaLinkedin } from "react-icons/fa";
 import { IoIosMail } from "react-icons/io";
 import { FaFigma } from "react-icons/fa6";
 import { FaBehance } from "react-icons/fa";
+import CV from '../../assets/Nirakar-nanda_resume.pdf';
 
 const Home = () => {
   return (
@@ -66,10 +67,14 @@ const Home = () => {
             </div>
 
             <div className="home__btns">
-                <a href="" className="btn text-cs">Download CV</a>
-                <a href="" className="hero__link text-cs">My Skils</a>
+                <a download = '' href={CV} className="btn text-cs">Download CV</a>
+                <a href="#skills" className="hero__link text-cs">My Skils</a>
             </div>
 
+        </div>
+
+        <div className="section__deco deco__left">
+            <img src={shapeOne} alt="" className="shape" />
         </div>
         </div>
     </section>

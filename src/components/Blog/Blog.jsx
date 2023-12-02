@@ -4,6 +4,7 @@ import { FaArrowRight } from 'react-icons/fa';
 import blog1 from '../../assets/blog1.jpg';
 import blog2 from '../../assets/blog2.jpg';
 import blog3 from '../../assets/blog3.jpg';
+import shapeOne from '../../assets/shape-1.png';
 
 const Blog = () => {
   return (
@@ -62,7 +63,9 @@ const Blog = () => {
             </div>
 
 
-            
+            <div className="section__deco deco__right">
+            <img src={shapeOne} alt="" className="shape" />
+        </div>
 
     </section>
   )

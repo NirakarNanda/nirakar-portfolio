@@ -3,6 +3,7 @@ import React from 'react'
 import { services } from '../../Data';
 import { FaArrowRight } from "react-icons/fa";
 import shapeTwo from '../../assets/shape-2.png';
+import shapeOne from '../../assets/shape-1.png';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 
@@ -62,6 +63,9 @@ const Projects = () => {
                     )
                 })}
             </Swiper>
+            <div className="section__deco deco__right">
+            <img src={shapeOne} alt="" className="shape" />
+        </div>
     </section>
   )
 }

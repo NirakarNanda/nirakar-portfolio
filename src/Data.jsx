@@ -184,7 +184,7 @@ export const cv = [
     subtitle: 'BPUT',
     date: '2022 - 2024',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Despite having completed my Bachelors in Botany, I took the decision to shift my career trajectory by undertaking a Masters in Computer Application. This allowed me to combine my analytical aptitude with a passion for technology. I am currently pursuing my MCA degree from Trident Academy of Creative Technology in Bhubaneswar, graduating in 2024. Coming from a non-technical background initially posed challenges in grasping complex computing concepts. However, our exceptional faculty took the effort to patiently strengthen our fundamentals across a variety of languages and frameworks. Through extensive hands-on coding training on C, Java, HTML/CSS/JS along with theoretical bases in Operating Systems, DBMS, Computer Networks and Architecture, I developed a well-rounded foundation. Our rigorous curriculum also prepared me on Data Structures and Algorithms for solving computational problems efficiently.My success is reflected in an excellent CGPA, a testament to my perseverance.',
     category: 'education',
   },
 
@@ -192,9 +192,9 @@ export const cv = [
     id: 2,
     title: 'Under Graduation',
     subtitle: 'Utkal University',
-    date: '20168- 2021',
+    date: '2018- 2021',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'I completed my Bachelors in Botany from Utkal University, cultivating a deep interest in plant sciences. My academic performance remained consistently strong throughout the three-year program. As part of the curriculum, I also completed an insightful research project on paddy cultivation patterns.',
     category: 'education',
   },
 
@@ -204,7 +204,7 @@ export const cv = [
     subtitle: 'Sambalpur University',
     date: '2016 - 2018',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Due to some issues I have to switch from CBSE to CHSE board in 12th grade posed early difficulties but taught me to adapt. The transition to a new state board syllabus and exam patterns shortly before the critical exams was challenging.This experience demonstrated my resolve in the face of adversity and ability to adjust well to different systems - skills that have helped me thrive in new environments.',
     category: 'education',
   },
 
@@ -212,9 +212,9 @@ export const cv = [
     id: 4,
     title: 'Central Board Of Secondary Education',
     subtitle: 'Kendriya Vidyalaya',
-    date: '2022 - 2024',
+    date: '2006 - 2016',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'I completed my schooling from Kendriya Vidyalaya in Sonepur, which provided me with a well-rounded education. Along with a strong academic foundation across subjects, the school had a focus on co-curricular activities for holistic development. I participated extensively in may popular exhibition like Social science exhibition, National Science Congress, and many more.',
     category: 'education',
   },
 
@@ -222,9 +222,9 @@ export const cv = [
     id: 5,
     title: 'Softwer Developement Intern',
     subtitle: 'Akrabhi-Infoviz',
-    date: '2023 - present',
+    date: '2023 - Present',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'I have been working as a software developer Intern at Akrabhi Softlab for this year. In this role, I have gained valuable experience with front-end web and Ui/Ux development working extensively with JavaScript, ReactJS, and Figma. My mentors have helped me strengthen my programming skills and learn industry best practices for building interactive user interfaces.',
     category: 'experience',
   }
 ];

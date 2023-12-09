@@ -7,7 +7,7 @@ import { FaLinkedin } from "react-icons/fa";
 import { IoIosMail } from "react-icons/io";
 import { FaFigma } from "react-icons/fa6";
 import { FaBehance } from "react-icons/fa";
-import CV from '../../assets/Nirakar_nanda_resume2.pdf';
+import CV from '../../assets/Nirakar_nanda.pdf';
 
 const Home = () => {
   return (
